@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **srushtiamaresh5-spec/srushtiamaresh5-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# 👋 Hi there, I'm [Your Name / Username]!
+# 👋 Hi there, I'm Srushti !
 
-### 🚀 [Your Title/Role, e.g., Full-Stack Developer & Open Source Enthusiast]
+### 🚀 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/srushti-srushti-45b071384?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
+  <a href="https://x.com/srushtiamaresh5" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
